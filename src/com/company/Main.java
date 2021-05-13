@@ -70,7 +70,7 @@ public class Main {
                 System.out.println(Task9.task9(in.nextInt()));
                 break;
             case 10:
-                System.out.println("Задача №10(рямоугольный треугольник):");
+                System.out.println("Задача №10(прямоугольный треугольник):");
                 System.out.println("Введите x, y, z:");
                 System.out.println(Task10.task10(in.nextInt(),in.nextInt(),in.nextInt()));
                 break;
